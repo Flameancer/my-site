@@ -1,0 +1,13 @@
+body {
+    /*background-color: rgb(60.6%, 2.8%, 67.5%);
+    color: ghostwhite;*/
+}
+
+.pic {
+    text-align: right;
+}
+
+.pic img {
+    border: 5px solid ghostwhite;
+    border-radius: 50%
+}
